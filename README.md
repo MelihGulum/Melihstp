@@ -16,6 +16,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/melihgulum/" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" alt="melih-gulum" height="30" width="40" /></a>
 <a href="https://www.instagram.com/melih.gulum/" target="blank"><img align="center" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" alt="melihgulum" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/melihgulum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="melihgulum" height="30" width="40" /></a>
 <a href="https://medium.com/@melihgulum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@melih-gulum" height="30" width="40" /></a>
 </p>
 
